@@ -11,8 +11,8 @@
 body {
     font-family: 'Orbitron', 'Times New Roman', Times, serif;
     font-size: 1em;
-    background-image: url(/src/img/background02.png);
-    background-repeat: no-repeat;
+    background-image: url(src/img/background01.png);
+    background-color: #eccbf2;
     background-size: cover;
     background-position: center;
     min-height: 100vh;
